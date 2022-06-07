@@ -13,8 +13,15 @@ Step-2
 Step-3
 
 "npm install"
+and
 "npm run dev"
 
 Step-4
 
 "php artisan migrate"
+
+## Install Socialite Package
+
+Run this Command
+
+"composer require laravel/socialite"
