@@ -28,9 +28,10 @@ Run this Command
 
 ## Demo
 
-       
-![fb](https://user-images.githubusercontent.com/80118217/172470577-a1bec3ce-048d-48ba-bf29-2385a6d53e5c.JPG)
+ <p align="center">
+ 
+ <img src="https://user-images.githubusercontent.com/80118217/172470577-a1bec3ce-048d-48ba-bf29-2385a6d53e5c.JPG">
 
-
+</p>
 
 
